@@ -14,3 +14,9 @@ Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
 ...
+W jaki sposób można rozbudować funkcjonalność programu
+w przypadku gdy liczba naciśnięć przycisku przekroczy określoną ilość?
+
+ W jaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów? 
+
+ 
