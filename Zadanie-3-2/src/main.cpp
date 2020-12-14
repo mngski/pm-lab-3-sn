@@ -2,7 +2,7 @@
 uint8_t i = 0;
 void setup() {
   Serial.begin(9600);
-  Serial.println("Wiraj programisto!");
+  Serial.println("Witaj programisto!");
 }
 
 void loop() {
